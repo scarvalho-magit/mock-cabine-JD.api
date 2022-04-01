@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/">
+    <SOAP-ENV:Body SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"
+        xmlns:NS1="urn:JDSPBCAB_Intf-IJDSPBCAB">
+        <NS1:RecebeMensagemResponse>
+            <return xsi:type="xsd:string">ALS99</return>
+            <NumCabSeq xsi:type="xsd:string">JDCCAB00000000188641</NumCabSeq>
+            <ISPBOrigem xsi:type="xsd:int">38121</ISPBOrigem>
+            <ISPBDestino xsi:type="xsd:int">22610500</ISPBDestino>
+            <NumCtrlIF xsi:type="xsd:string">WSCAB2021081204</NumCtrlIF>
+            <CdMensagem xsi:type="xsd:string">SEL1611</CdMensagem>
+            <DtHrRegistro xsi:type="xsd:string">20220323172605</DtHrRegistro>
+            <TpRetorno xsi:type="xsd:string">R</TpRetorno>
+            <ConteudoXML xsi:type="xsd:string">&lt;SEL1611&gt;&lt;CodMsg&gt;SEL1611&lt;/CodMsg&gt;&lt;ISPBIF&gt;22610500&lt;/ISPBIF&gt;&lt;TpInfEvtSEL&gt;02&lt;/TpInfEvtSEL&gt;&lt;CodOpSEL&gt;1054&lt;/CodOpSEL&gt;&lt;NumOpSEL&gt;421090&lt;/NumOpSEL&gt;&lt;DtIniLiquidCompr&gt;2021-08-03&lt;/DtIniLiquidCompr&gt;&lt;DtOpRet&gt;2021-08-03&lt;/DtOpRet&gt;&lt;TpUnilatrdd&gt;1&lt;/TpUnilatrdd&gt;&lt;CtCed&gt;22200307&lt;/CtCed&gt;&lt;CtCes&gt;2223524&lt;/CtCes&gt;&lt;TpDeb_Cred&gt;D&lt;/TpDeb_Cred&gt;&lt;IdentdTitSEL&gt;100000&lt;/IdentdTitSEL&gt;&lt;DtVenc&gt;2023-07-01&lt;/DtVenc&gt;&lt;PU&gt;85474404789.87654321&lt;/PU&gt;&lt;PURet&gt;85488100071.87654321&lt;/PURet&gt;&lt;QtdTit&gt;41181&lt;/QtdTit&gt;&lt;VlrFinanc&gt;3519921463.87654321&lt;/VlrFinanc&gt;&lt;VlrFinancRet&gt;3520485449.87654321&lt;/VlrFinancRet&gt;&lt;NumCtrlSTR&gt;STR20210802151724843&lt;/NumCtrlSTR&gt;&lt;SitOpSEL&gt;LAN&lt;/SitOpSEL&gt;&lt;DtHrSit&gt;2021-08-02T15:17:24&lt;/DtHrSit&gt;&lt;DtMovto&gt;2021-08-02&lt;/DtMovto&gt;&lt;/SEL1611&gt;</ConteudoXML>
+            <Numero_Mensagem xsi:type="xsd:string">42476</Numero_Mensagem>
+        </NS1:RecebeMensagemResponse>
+    </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

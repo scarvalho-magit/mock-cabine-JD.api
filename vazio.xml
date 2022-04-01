@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/">
+    <SOAP-ENV:Body SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" xmlns:NS1="urn:JDSPBCAB_Intf-IJDSPBCAB">
+        <NS1:RecebeMensagemResponse>
+            <return xsi:type="xsd:string">ALS01</return>
+            <NumCabSeq xsi:type="xsd:string"></NumCabSeq>
+            <ISPBOrigem xsi:type="xsd:int">-1</ISPBOrigem>
+            <ISPBDestino xsi:type="xsd:int">-1</ISPBDestino>
+            <NumCtrlIF xsi:type="xsd:string"></NumCtrlIF>
+            <CdMensagem xsi:type="xsd:string"></CdMensagem>
+            <DtHrRegistro xsi:type="xsd:string"></DtHrRegistro>
+            <TpRetorno xsi:type="xsd:string"></TpRetorno>
+            <ConteudoXML xsi:type="xsd:string"></ConteudoXML>
+            <Numero_Mensagem xsi:type="xsd:string"></Numero_Mensagem>
+        </NS1:RecebeMensagemResponse>
+    </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
