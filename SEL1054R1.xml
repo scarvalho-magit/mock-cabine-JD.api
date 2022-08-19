@@ -14,7 +14,7 @@
             <CdMensagem xsi:type="xsd:string">SEL1054R1</CdMensagem>
             <DtHrRegistro xsi:type="xsd:string">20220323172605</DtHrRegistro>
             <TpRetorno xsi:type="xsd:string">R</TpRetorno>
-            <ConteudoXML xsi:type="xsd:string">&lt;SEL1054R1&gt;&lt;CodMsg&gt;SEL1054R1&lt;/CodMsg&gt;&lt;NumCtrlIF&gt;WS1648824528858&lt;/NumCtrlIF&gt;&lt;ISPBIF&gt;22610500&lt;/ISPBIF&gt;&lt;NumOpSEL&gt;126000&lt;/NumOpSEL&gt;&lt;NumOpSELRet&gt;932621&lt;/NumOpSELRet&gt;&lt;SitOpSEL&gt;ATU&lt;/SitOpSEL&gt;&lt;DtHrSit&gt;2022-03-23T17:25:46&lt;/DtHrSit&gt;&lt;DtMovto&gt;2022-03-23&lt;/DtMovto&gt;&lt;/SEL1054R1&gt;</ConteudoXML>
+            <ConteudoXML xsi:type="xsd:string">&lt;SEL1054R1&gt;&lt;CodMsg&gt;SEL1054R1&lt;/CodMsg&gt;&lt;NumCtrlIF&gt;RC5420220725-0012279&lt;/NumCtrlIF&gt;&lt;ISPBIF&gt;22610500&lt;/ISPBIF&gt;&lt;NumOpSEL&gt;526999&lt;/NumOpSEL&gt;&lt;NumCtrlSTR&gt;STR20220725034524877&lt;/NumCtrlSTR&gt;&lt;NumOpSELRet&gt;933851&lt;/NumOpSELRet&gt;&lt;SitOpSEL&gt;ATU&lt;/SitOpSEL&gt;&lt;DtHrSit&gt;2022-07-25T17:21:02&lt;/DtHrSit&gt;&lt;DtMovto&gt;2022-07-25&lt;/DtMovto&gt;&lt;/SEL1054R1&gt;</ConteudoXML>
             <Numero_Mensagem xsi:type="xsd:string">42476</Numero_Mensagem>
         </NS1:RecebeMensagemResponse>
     </SOAP-ENV:Body>

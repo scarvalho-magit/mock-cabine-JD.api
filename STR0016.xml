@@ -14,7 +14,7 @@
             <CdMensagem xsi:type="xsd:string">STR0016</CdMensagem>
             <DtHrRegistro xsi:type="xsd:string">20220816183109</DtHrRegistro>
             <TpRetorno xsi:type="xsd:string">R</TpRetorno>
-            <ConteudoXML xsi:type="xsd:string">&lt;STR0016&gt;&lt;CodMsg&gt;STR0016&lt;/CodMsg&gt;&lt;ISPBPart&gt;22610500&lt;/ISPBPart&gt;&lt;TpSld&gt;1&lt;/TpSld&gt;&lt;SldRB_CL&gt;115976.53&lt;/SldRB_CL&gt;&lt;DtHrBC&gt;2022-08-16T18:30:49&lt;/DtHrBC&gt;&lt;DtMovto&gt;2022-08-16&lt;/DtMovto&gt;&lt;/STR0016&gt;</ConteudoXML>
+            <ConteudoXML xsi:type="xsd:string">&lt;STR0016&gt;&lt;CodMsg&gt;STR0016&lt;/CodMsg&gt;&lt;ISPBPart&gt;22610500&lt;/ISPBPart&gt;&lt;TpSld&gt;2&lt;/TpSld&gt;&lt;SldRB_CL&gt;115976.53&lt;/SldRB_CL&gt;&lt;DtHrBC&gt;2022-08-16T18:30:49&lt;/DtHrBC&gt;&lt;DtMovto&gt;2022-08-16&lt;/DtMovto&gt;&lt;/STR0016&gt;</ConteudoXML>
             <Numero_Mensagem xsi:type="xsd:string">858044</Numero_Mensagem>
         </NS1:RecebeMensagemResponse>
     </SOAP-ENV:Body>
