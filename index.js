@@ -12,13 +12,13 @@ app.use(json());
 let contagem = 0;
 app.post("/", async (req, res) => {
   try {
-    const nomeArquivo = contagem > 0 ? "vazio.xml" : "STR0016.xml";
-    // const nomeArquivo = contagem > 10 ? "vazio.xml" : "SEL1611.xml";
+    // const nomeArquivo = "STR0016.xml";
+    const nomeArquivo = contagem > 9 ? "vazio.xml" : "STR0016.xml";
 
     const arquivo = path.join(__dirname, nomeArquivo);
     const xml = await fs.promises.readFile(arquivo);
 
-    if (contagem > 10) contagem = 0;
+    if (contagem > 9) contagem = 0;
 
     console.log("> REQ: ", contagem);
     console.log(xml.toString());
